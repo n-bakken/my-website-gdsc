@@ -1,0 +1,13 @@
+body{
+    color: lightgreen;
+    background-color: palevioletred;
+}
+
+h1{
+    color: palevioletred;
+    background-color: lightgreen;
+}
+
+.bg{
+    background-color: blanchedalmond;
+}
